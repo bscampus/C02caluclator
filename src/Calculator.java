@@ -14,8 +14,5 @@ public class Calculator {
         System.out.println(d);
         System.out.println(f);
 
-        
-
-
     }
 }
